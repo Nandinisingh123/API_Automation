@@ -1,0 +1,33 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Nandini",
+      "last_name": "Singh",
+      "role": "QA Engineer"
+    },
+    {
+      "id": "2",
+      "name": "Rahul",
+      "last_name": "Kumar",
+      "role": "Developer"
+    },
+    {
+      "id": "3b5f",
+      "name": "Rushabh Shah",
+      "job": "QA Automation Engineer"
+    }
+  ],
+  "products": [
+    {
+      "id": "1",
+      "name": "Laptop",
+      "price": 45000
+    },
+    {
+      "id": "2",
+      "name": "Mouse",
+      "price": 700
+    }
+  ]
+}
